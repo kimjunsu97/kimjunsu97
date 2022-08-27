@@ -1,27 +1,22 @@
 # Hi This is Junsu 👋
 Thank you for visiting my github.
-
 I am currently studying Computer Vision and Deep Learning. Especially, 3D pose estimation.
-
 I try to make what people dream come true through deep learning.
 
 __🔭 History__
 - Bachelor of Arts in Electrical Engineering. (2016.03 ~ 2022.02)
-- 
 - ETRI 2021 Summer Research Trainee (2021.07 ~ 2021.08)
-- 
 - Master of Science in Media (2022.03 ~ )
 
-__🏆 Prize__ 
+__🏆 Prize__
 - 11th Soongsil Capstone Design Competition participation prize (2021.09)
 
 __🔨Interest Technology__
 - language : Python, C#, JavaScript, HTML, CSS
-- 
 - DL Framework : Pytorch, TensorFlow
-- 
 - Tool & etc. : Unity, Linux
--
+
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjunsu97&show_icons=true&theme=radical)
 <!--
 **kimjunsu97/kimjunsu97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
