@@ -16,7 +16,7 @@ __🔨Interest Technology__
 - DL Framework : Pytorch, TensorFlow
 - Tool & etc. : Unity, Linux
 
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjunsu97&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjunsu97&show_icons=true&theme=radical)
 <!--
 **kimjunsu97/kimjunsu97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
