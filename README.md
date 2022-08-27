@@ -1,6 +1,8 @@
 # Hi This is Junsu 👋
-Thank you for visiting my github
+Thank you for visiting my github.
+
 I am currently studying Computer Vision and Deep Learning. Especially, 3D pose estimation.
+
 I try to make what people dream come true through deep learning.
 
 - 🔭 History
