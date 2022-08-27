@@ -4,7 +4,7 @@ I am currently studying Computer Vision and Deep Learning. Especially, 3D pose e
 I try to make what people dream come true through deep learning.
 
 __🔭 History__
-- Bachelor of Arts in Electrical Engineering. (2016.03 ~ 2022.02)
+- Bachelor of Science in Electrical Engineering. (2016.03 ~ 2022.02)
 - ETRI 2021 Summer Research Trainee (2021.07 ~ 2021.08)
 - Master of Science in Media (2022.03 ~ )
 
