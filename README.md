@@ -1,7 +1,7 @@
 # Hi This is Junsu 👋
-Thank you for visiting my github.
-I am currently studying Computer Vision and Deep Learning. Especially, 3D pose estimation.
-I try to make what people dream come true through deep learning.
+<br>Thank you for visiting my github.</br>
+<br>I am currently studying Computer Vision and Deep Learning. Especially, 3D pose estimation.</br>
+<br>I try to make what people dream come true through deep learning.</br>
 
 __🔭 History__
 - Bachelor of Science in Electrical Engineering. (2016.03 ~ 2022.02)
