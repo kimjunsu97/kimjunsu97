@@ -7,10 +7,10 @@
 - Bachelor of Science in Electrical Engineering. (2016.03 ~ 2022.02)
 - ETRI 2021 Summer Research Trainee (2021.07 ~ 2021.08)
 - Graphics & Smart Convergence Lab Researcher(2020.09 ~ 2022.07)
--
+
 ## 🔥 Current
 - Master of Science in Media (2022.03 ~ )
-- Graphics & Smart Convergence Lab Senior Researcher(2020.08 ~ )<a href="http://gsclab.kr"><img src="https://img.shields.io/badge/GSCLab-5C2D91?style=flat-square&logo=NintendoGameCube&logoColor=white"/></a>
+- Graphics & Smart Convergence Lab Senior Researcher(2020.08 ~ )<a href="http://gsclab.kr"><img src="https://img.shields.io/badge/GSCLab-556472?style=flat-square&logo=NintendoGameCube&logoColor=white"/></a>
 
 ## 🏆 Prize
 - 11th Soongsil Capstone Design Competition participation prize (2021.09)
@@ -22,20 +22,20 @@
 
 ## 🔨Interest Technology
 - language : 
-<img src="https://img.shields.io/badge/Python-5C2D91?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSharp-5C2D91?style=flat-square&logo=CSharp&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-556472?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSharp-556472?style=flat-square&logo=CSharp&logoColor=white"/></a>
 - DL Framework : 
-<img src="https://img.shields.io/badge/Pytorch-5C2D91?style=flat-square&logo=PyTorch&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/TensorFlow-5C2D91?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Keras-5C2D91?style=flat-square&logo=Keras&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Scikit-Learn-5C2D91?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Pytorch-556472?style=flat-square&logo=PyTorch&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/TensorFlow-556472?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Keras-556472?style=flat-square&logo=Keras&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Scikit-Learn-556472?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
 - Tool & etc. :
-<img src="https://img.shields.io/badge/Unity-5C2D91?style=flat-square&logo=Unity&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Linux-5C2D91?style=flat-square&logo=Linux&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Cuda-5C2D91?style=flat-square&logo=NVIDIA&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/GitHub-5C2D91?style=flat-square&logo=GitHub&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Slack-5C2D91?style=flat-square&logo=Slack&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Velog-5C2D91?style=flat-square&logo=Velog&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Unity-556472?style=flat-square&logo=Unity&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Linux-556472?style=flat-square&logo=Linux&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Cuda-556472?style=flat-square&logo=NVIDIA&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/GitHub-556472?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Slack-556472?style=flat-square&logo=Slack&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Velog-556472?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjunsu97&show_icons=true&theme=radical)
 [![kimjunsu97's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjunsu97&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/kimjunsu97ID)
