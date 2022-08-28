@@ -22,7 +22,7 @@
 ## 🔨Interest Technology
 - language : Python, C#
 <img src="https://img.shields.io/badge/Python-5C2D91?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C#-5C2D91?style=flat-square&logo=CSharp&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C#-5C2D91?style=flat-square&logo=C Sharp&logoColor=white"/></a>
 - DL Framework : Pytorch, TensorFlow
 <img src="https://img.shields.io/badge/Pytorch-5C2D91?style=flat-square&logo=PyTorch&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TensorFlow-5C2D91?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
