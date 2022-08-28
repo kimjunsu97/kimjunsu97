@@ -17,7 +17,7 @@ __🔨Interest Technology__
 - Tool & etc. : Unity, Linux
 - 
 <a href="[http://gsclab.kr/]" target="_blank">
-<img src="https://img.shields.io/badge/[![image](https://user-images.githubusercontent.com/80962130/187054881-2ca90d68-70f4-444c-9659-e8483339fe1d.png)]-[white]?style=flat-square&logo=GSClab]&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/[![image](https://user-images.githubusercontent.com/80962130/187054881-2ca90d68-70f4-444c-9659-e8483339fe1d.png)]-white-GSClab"></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjunsu97&show_icons=true&theme=radical)
 [![kimjunsu97's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjunsu97&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/kimjunsu97ID)
