@@ -3,20 +3,26 @@
 <br>I am currently studying Computer Vision and Deep Learning. Especially, 3D pose estimation.</br>
 <br>I try to make what people dream come true through deep learning.</br>
 
-__🔭 History__
+__## 🔭 Career__
 - Bachelor of Science in Electrical Engineering. (2016.03 ~ 2022.02)
 - ETRI 2021 Summer Research Trainee (2021.07 ~ 2021.08)
-- Master of Science in Media (2022.03 ~ )
 
-__🏆 Prize__
+__## 🔥 Current
+- Master of Science in Media (2022.03 ~ )
+- Graphics & Smart Convergence Lab Researcher(2020.09 ~ )<a href="http://gsclab.kr"><img src="https://img.shields.io/badge/GSCLab-5C2D91?style=flat-square&logo=NintendoGameCube&logoColor=white"/></a>
+
+__## 🏆 Prize__
 - 11th Soongsil Capstone Design Competition participation prize (2021.09)
 
-__🔨Interest Technology__
+__## 💻 Project__
+- 재활 트윈 (2021.09 ~ 2021.12)
+- XR LAb (2022.03 ~ )
+- Rehabilitation Twin ( 2022.03 ~ )
+-
+__## 🔨Interest Technology__
 - language : Python, C#, JavaScript, HTML, CSS
 - DL Framework : Pytorch, TensorFlow
 - Tool & etc. : Unity, Linux
-- 
-<a href="http://gsclab.kr"><img src="https://img.shields.io/badge/GSCLab-5C2D91?style=flat-square&logo=NintendoGameCube&logoColor=white"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjunsu97&show_icons=true&theme=radical)
 [![kimjunsu97's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjunsu97&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/kimjunsu97ID)
