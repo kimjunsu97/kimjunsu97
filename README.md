@@ -16,7 +16,7 @@ __🔨Interest Technology__
 - DL Framework : Pytorch, TensorFlow
 - Tool & etc. : Unity, Linux
 - 
-<a href="[http://gsclab.kr/]" target="_blank">
+<a href="[http://gsclab.kr/]">
 <img src="https://img.shields.io/badge/GSCLab-5C2D91?style=flat-square&logo=NintendoGameCube&logoColor=white"/></a>&nbsp
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjunsu97&show_icons=true&theme=radical)
