@@ -17,7 +17,7 @@ __🔨Interest Technology__
 - Tool & etc. : Unity, Linux
 - 
 <a href="[http://gsclab.kr/]" target="_blank">
-<img src="https://img.shields.io/badge/GSCLab-#6A5FBB?style=for-the-badge&logo=Nintendo GameCube&logoColor=white">
+<img src="https://img.shields.io/badge/GSCLab-5C2D91?style=flat-square&logo=NintendoGameCube&logoColor=white"/></a>&nbsp
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjunsu97&show_icons=true&theme=radical)
 [![kimjunsu97's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjunsu97&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/kimjunsu97ID)
