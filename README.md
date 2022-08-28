@@ -20,10 +20,10 @@
 - Rehabilitation Twin ( 2022.03 ~ )
 -
 ## 🔨Interest Technology
-- language : Python, C#
+- language : 
 <img src="https://img.shields.io/badge/Python-5C2D91?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C#-5C2D91?style=flat-square&logo=C-Sharp&logoColor=white"/></a>
-- DL Framework : Pytorch, TensorFlow
+<img src="https://img.shields.io/badge/C#-5C2D91?style=flat-square&logo=CSharp&logoColor=white"/></a>
+- DL Framework : 
 <img src="https://img.shields.io/badge/Pytorch-5C2D91?style=flat-square&logo=PyTorch&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TensorFlow-5C2D91?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Keras-5C2D91?style=flat-square&logo=Keras&logoColor=white"/></a>
@@ -33,6 +33,7 @@
 <img src="https://img.shields.io/badge/Linux-5C2D91?style=flat-square&logo=Linux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Cuda-5C2D91?style=flat-square&logo=NVIDIA&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitHub-5C2D91?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Slack-5C2D91?style=flat-square&logo=Slack&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Velog-5C2D91?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjunsu97&show_icons=true&theme=radical)
