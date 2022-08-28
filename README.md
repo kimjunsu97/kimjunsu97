@@ -22,13 +22,13 @@
 ## 🔨Interest Technology
 - language : 
 <img src="https://img.shields.io/badge/Python-5C2D91?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C#-5C2D91?style=flat-square&logo=CSharp&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSharp-5C2D91?style=flat-square&logo=CSharp&logoColor=white"/></a>
 - DL Framework : 
 <img src="https://img.shields.io/badge/Pytorch-5C2D91?style=flat-square&logo=PyTorch&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TensorFlow-5C2D91?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Keras-5C2D91?style=flat-square&logo=Keras&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Scikit-Learn-5C2D91?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
-- Tool & etc. : Unity, Linux, Cuda, GitHub, Slack
+- Tool & etc. :
 <img src="https://img.shields.io/badge/Unity-5C2D91?style=flat-square&logo=Unity&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Linux-5C2D91?style=flat-square&logo=Linux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Cuda-5C2D91?style=flat-square&logo=NVIDIA&logoColor=white"/></a>
