@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/Pytorch-556472?style=flat-square&logo=PyTorch&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TensorFlow-556472?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Keras-556472?style=flat-square&logo=Keras&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Scikit-Learn-556472?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Scikit-Learn-556472?style=flat-square&logo=scikitLearn&logoColor=white"/></a>
 - Tool & etc. :
 <img src="https://img.shields.io/badge/Unity-556472?style=flat-square&logo=Unity&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Linux-556472?style=flat-square&logo=Linux&logoColor=white"/></a>
@@ -38,7 +38,6 @@
 <img src="https://img.shields.io/badge/Velog-556472?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjunsu97&show_icons=true&theme=radical)
-[![kimjunsu97's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjunsu97&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/kimjunsu97ID)
 
 <!--
 **kimjunsu97/kimjunsu97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
