@@ -3,7 +3,7 @@
 <br>I am currently studying Computer Vision and Deep Learning. Especially, 3D pose estimation.</br>
 <br>I try to make what people dream come true through deep learning.</br>
 
-## 💻 Career
+## 📓 Career
 - Bachelor of Science in Electrical Engineering. (2016.03 ~ 2022.02)
 - ETRI 2021 Summer Research Trainee (2021.07 ~ 2021.08)
 - Graphics & Smart Convergence Lab Researcher(2020.09 ~ 2022.07)
@@ -16,6 +16,8 @@
 - 11th Soongsil Capstone Design Competition participation prize (2021.09)
 
 ## 💻 Project
+- Implementation of Youth Fitness ( 2021.01 ~ 2021.06 ) 
+- AR을 활용한 음식 배치 앱(AR_PUB) ( 2021.03 ~ 2021.09) <a href="https://www.youtube.com/watch?v=oaoSw2BxXfQ"><img src="https://img.shields.io/badge/Link-556472?style=flat-square&logo=Linkfire&logoColor=white"/></a>
 - 재활 트윈 (2021.09 ~ 2021.12)
 - XR LAb (2022.03 ~ )
 - Rehabilitation Twin ( 2022.03 ~ )
