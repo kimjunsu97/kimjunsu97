@@ -17,10 +17,10 @@
 
 ## 💻 Project
 - Implementation of Youth Fitness ( 2021.01 ~ 2021.06 ) 
-- AR을 활용한 음식 배치 앱(AR_PUB) ( 2021.03 ~ 2021.09) <a href="https://www.youtube.com/watch?v=oaoSw2BxXfQ"><img src="https://img.shields.io/badge/Link-556472?style=flat-square&logo=Linkfire&logoColor=white"/></a>
-- 재활 트윈 (2021.09 ~ 2021.12)
-- XR LAb (2022.03 ~ )
-- Rehabilitation Twin ( 2022.03 ~ )
+- Food Placement Application Using Augmented Reality (AR_PUB) ( 2021.03 ~ 2021.09) <a href="https://www.youtube.com/watch?v=oaoSw2BxXfQ"><img src="https://img.shields.io/badge/Link-556472?style=flat-square&logo=Linkfire&logoColor=white"/></a>
+- a rehabilitation exercise project (2021.09 ~ 2021.12)
+- XR LAb Metaverse (2022.03 ~ )
+- Rehabilitation human Twin (2022.03 ~ )
 
 ## 🔨Interest Technology
 - language : 
