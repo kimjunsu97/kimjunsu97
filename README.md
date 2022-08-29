@@ -18,7 +18,7 @@
 ## 💻 Project
 - Implementation of Youth Fitness ( 2021.01 ~ 2021.06 ) 
 - Food Placement Application Using Augmented Reality (AR_PUB) ( 2021.03 ~ 2021.09) <a href="https://www.youtube.com/watch?v=oaoSw2BxXfQ"><img src="https://img.shields.io/badge/Link-556472?style=flat-square&logo=Linkfire&logoColor=white"/></a>
-- 어포던스 기반 AR 헬스케어 콘텐츠 및 서비스 개발 ( 2021.01 ~ 2021.12 )
+- 어포던스 기반 AR 헬스케어 콘텐츠 및 서비스 개발 ( 2021.01 ~ 2021.12 ) <a href="https://www.youtube.com/watch?v=TKnRmTAuJvA"><img src="https://img.shields.io/badge/Link-556472?style=flat-square&logo=Linkfire&logoColor=white"/></a>
 - 지능형 개인맞춤 재활운동 서비스 기술개발 ( 2021.09 ~ 2021.12 )
 - a rehabilitation exercise project (2021.09 ~ 2021.12)
 - Human data-based Metaverse Contents Development including Exercise Coaching and Traditional Dance using Motion Recognition Technology (2022.03 ~ )
