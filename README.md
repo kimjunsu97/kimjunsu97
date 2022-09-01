@@ -40,7 +40,7 @@
 <img src="https://img.shields.io/badge/Slack-556472?style=flat-square&logo=Slack&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Velog-556472?style=flat-square&logo=Velog&logoColor=white"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjunsu97&show_icons=true&theme=dark)[![kimjunsu97's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjunsu97&show_icons=true&hide_border=true&title_color=000000&icon_color=000000&layout=dark)](https://github.com/kimjunsu97)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjunsu97&show_icons=true&theme=dark)[![kimjunsu97's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjunsu97&show_icons=true&hide_border=true&title_color=000000&icon_color=000000&layout=compact&theme=dark)](https://github.com/kimjunsu97)
 
 <!--
 **kimjunsu97/kimjunsu97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
