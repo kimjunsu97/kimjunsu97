@@ -13,7 +13,7 @@
 - Graphics & Smart Convergence Lab Senior Researcher(2020.08 ~ )<a href="http://gsclab.kr"><img src="https://img.shields.io/badge/GSCLab-556472?style=flat-square&logo=NintendoGameCube&logoColor=white"/></a>
 
 ## 🏆 Prize
-- 11th Soongsil Capstone Design Competition participation prize (2021.09)
+- 11th Soongsil Capstone Design Competition prize (2021.09)
 
 ## 💻 Project
 - Implementation of Youth Fitness ( 2021.01 ~ 2021.06 ) 
