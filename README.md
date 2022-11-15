@@ -15,7 +15,7 @@
 ## 🏆 Prize
 - 11th Soongsil Capstone Design Competition prize (2021.09)
 - 데이터 분석 대회
-  |대회|대회명|순위|상위||
+  |대회|대회명|순위|상위|대회마감|
   |---|------|----|----|----|
   |Kaggle|DFL - Bundesliga Data Shootout|57/531|10%|2022.10|
   |Dacon|월간 데이콘 예술 작품 화가 분류 AI 경진대회|10/217|4%|2022.11|
