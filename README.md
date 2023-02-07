@@ -52,7 +52,7 @@
 **kimjunsu97/kimjunsu97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--
+- 123
 - 🔭 I’m currently working on ...
   - 숭실대학교 Graphics & Smart Convergence Lab 연구생
 - 🌱 I’m currently learning ...
