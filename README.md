@@ -17,8 +17,9 @@
 - 데이터 분석 대회
   |대회|대회명|순위|상위|대회마감|
   |---|------|----|----|----|
-  |Kaggle|DFL - Bundesliga Data Shootout|57/531|10%|2022.10|
-  |Dacon|월간 데이콘 예술 작품 화가 분류 AI 경진대회|10/217|4%|2022.11|
+  |Kaggle|DFL - Bundesliga Data Shootout|57/531|10.7%|2022.10|
+  |Dacon|월간 데이콘 예술 작품 화가 분류 AI 경진대회|10/217|4.6%|2022.11|
+  |Dacon|월간 데이콘 TV 손동작 제어 인식 AI 경진대회|9/219|4.1%|2023.02|
   
 ## 💻 Project
 - Implementation of Youth Fitness ( 2021.01 ~ 2021.06 ) 
