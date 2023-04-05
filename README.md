@@ -3,7 +3,7 @@
 <br>I am currently studying Computer Vision and Deep Learning. Especially, 3D pose estimation.</br>
 <br>I try to make what people dream come true through deep learning.</br>
 
-## 📓 Career
+## 🛫 Career
 - Bachelor of Science in Electrical Engineering. (2016.03 ~ 2022.02)
 - ETRI 2021 Summer Research Trainee (2021.07 ~ 2021.08)
 - Graphics & Smart Convergence Lab Researcher(2020.09 ~ 2022.07)
@@ -20,7 +20,10 @@
   |Kaggle|DFL - Bundesliga Data Shootout|57/531|10.7%|2022.10|
   |Dacon|월간 데이콘 예술 작품 화가 분류 AI 경진대회|10/217|4.6%|2022.11|
   |Dacon|월간 데이콘 TV 손동작 제어 인식 AI 경진대회|9/219|4.1%|2023.02|
-  
+## 📓 Paper
+- 딥러닝 기술을 이용한 사용자 동작인식 기반 전통 사자탈 아바타 매핑 및 애니메이션 시스템의 설계 및 개발
+  (Design and development of traditional lion mask avatar mapping and animation system based on the user motion recognition using deep learning technology) 
+  https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11229614
 ## 💻 Project
 - Implementation of Youth Fitness ( 2021.01 ~ 2021.06 ) 
 - Food Placement Application Using Augmented Reality (AR_PUB) ( 2021.03 ~ 2021.09) <a href="https://www.youtube.com/watch?v=oaoSw2BxXfQ"><img src="https://img.shields.io/badge/Link-556472?style=flat-square&logo=Linkfire&logoColor=white"/></a>
