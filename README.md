@@ -1,6 +1,5 @@
 <br>Thank you for visiting my github.</br>
-<br>I am currently studying Computer Vision and Deep Learning. </br>
-<br>I'm interested in 3D pose estimation using trnasformer, image synthesis using Latent Diffusion, and model lightweighting techniques such as pruning and quantization.</br>
+<br>I am currently studying Computer Vision and Deep Learning.I'm interested in 3D pose estimation using trnasformer, image synthesis using Latent Diffusion, and model lightweighting techniques such as pruning and quantization.</br>
 <br>I strive to make what people's dream come true through deep learning.</br>
 
 ## 🛫 Career
