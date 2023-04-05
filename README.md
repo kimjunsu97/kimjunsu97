@@ -22,7 +22,7 @@
 ## 📓 Paper
 - 딥러닝 기술을 이용한 사용자 동작인식 기반 전통 사자탈 아바타 매핑 및 애니메이션 시스템의 설계 및 개발
   (Design and development of traditional lion mask avatar mapping and animation system based on the user motion recognition using deep learning technology) 
-  https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11229614
+  https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11229614 (2023 HCI KOREA CONFERENCE)
 ## 💻 Project
 - Implementation of Youth Fitness ( 2021.01 ~ 2021.06 ) 
 - Food Placement Application Using Augmented Reality (AR_PUB) ( 2021.03 ~ 2021.09) <a href="https://www.youtube.com/watch?v=oaoSw2BxXfQ"><img src="https://img.shields.io/badge/Link-556472?style=flat-square&logo=Linkfire&logoColor=white"/></a>
