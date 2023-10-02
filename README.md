@@ -1,5 +1,5 @@
 <br>Thank you for visiting my github.</br>
-<br>I am currently studying Computer Vision and Deep Learning.I'm interested in 3D pose estimation using trnasformer, image synthesis using Latent Diffusion, and model lightweighting techniques such as pruning and quantization.</br>
+<br>I am currently studying Computer Vision and Deep Learning.I'm interested in 3D pose estimation using trnasformer, image synthesis using Latent Diffusion, and model lightweighting techniques such as pruning, quantization and knowledge distillation.</br>
 <br>I strive to make what people's dream come true through deep learning.</br>
 
 ## 🛫 Career
@@ -31,6 +31,7 @@
 - Human data-based Metaverse Contents Development including Exercise Coaching and Traditional Dance using Motion Recognition Technology (2022.03 ~ )
 - XR 트윈 기반 재활 훈련 콘텐츠 기술개발 (2022.04 ~ )
 - 지역지능화혁신인재양성(숭실대학교) (2022.07 ~ )
+- 숭실대 지역 지능화 혁신 인재 양성 해외 단기 연수 프로그램 - Silicon Valley (2023.02 ~ 2023.02)
 
 ## 🔨Interest Technology
 - language : 
