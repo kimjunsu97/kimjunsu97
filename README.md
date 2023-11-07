@@ -3,23 +3,22 @@
 <br>I strive to make what people's dream come true through deep learning.</br>
 
 ## 📚 Education
-|학위|학교|기간|전공|
-|---|------|----|----|
-|학사|숭실대학교|2016.03~2022.02|전기공학부|
-|석사|숭실대학교|2022.03~|미디어학과|
+|학위|학교|전공|시작일|종료일|
+|---|------|----|----|----|
+|학사|숭실대학교|전기공학부|2016.03|2022.02|
+|석사|숭실대학교|미디어학과|2022.03|-|
 
 ## 📝 Experience
 |근무처|직급|담당업무|시작일|종료일| 
 |---|------|----|----|----|
 |숭실대학교 생체전기연구실|연구원|자기장 차폐 시뮬레이션|2020.01|2020.08|
-|숭실대학교 GSC Lab|연구원|담당|2020.09|-|
-|한국전자통신연구원|인턴|담당|2021.07|2021.08|
-
-
+|숭실대학교 GSC Lab|연구원|담당|2020.09|-| <a href="http://gsclab.kr"><img src="https://img.shields.io/badge/GSCLab-556472?style=flat-square&logo=NintendoGameCube&logoColor=white"/></a>
+|한국전자통신연구원|인턴|담당|2021.07|2021.08| 
 
 ## 🔥 Current
-- Master of Science in Media (2022.03 ~ )
-- Graphics & Smart Convergence Lab Senior Researcher(2020.08 ~ )<a href="http://gsclab.kr"><img src="https://img.shields.io/badge/GSCLab-556472?style=flat-square&logo=NintendoGameCube&logoColor=white"/></a>
+|근무처|직급|담당업무|시작일|
+|---|------|----|----|----|
+|숭실대학교 GSC Lab|대표연구원|담당|2020.09|-|
 
 ## 🏆 Prize
 - 11th Soongsil Capstone Design Competition prize (2021.09)
