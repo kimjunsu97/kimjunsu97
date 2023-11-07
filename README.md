@@ -28,14 +28,14 @@
 |기간|프로젝트명|비고|
 |---|------|----|
 |2021.01 ~ 2021.06|Implementation of Youth Fitness|
-|Food Placement Application Using Augmented Reality (AR_PUB)| 2021.03 ~ 2021.09|<a href="https://www.youtube.com/watch?v=oaoSw2BxXfQ"><img src="https://img.shields.io/badge/Link-556472?style=flat-square&logo=Linkfire&logoColor=white"/></a>|
-- 어포던스 기반 AR 헬스케어 콘텐츠 및 서비스 개발 ( 2021.01 ~ 2021.12 ) <a href="https://www.youtube.com/watch?v=TKnRmTAuJvA"><img src="https://img.shields.io/badge/Link-556472?style=flat-square&logo=Linkfire&logoColor=white"/></a>
-- 지능형 개인맞춤 재활운동 서비스 기술개발 ( 2021.09 ~ 2021.12 )
-- Human data-based Metaverse Contents Development including Exercise Coaching and Traditional Dance using Motion Recognition Technology (2022.01 ~ 2022.12) <a href="https://www.youtube.com/watch?v=mf_9cJBOrKo&list=PLPcppWRsdoY2hGQQMM4IRvblQazTw-7IH&index=20"><img src="https://img.shields.io/badge/Link-556472?style=flat-square&logo=Linkfire&logoColor=white"/></a>
-- XR 트윈 기반 재활 훈련 콘텐츠 기술개발 (2022.04 ~ )
-- 지역지능화혁신인재양성(숭실대학교) (2022.07 ~ )
-- 시공간 연동 교육 메타버스 및 볼류메트릭 헬스케어 메타버스를 위한 기술 및 서비스 개발 (2023.01 ~ ) <a href="https://www.youtube.com/watch?v=o19jY0rnoRc&list=PLPcppWRsdoY2hGQQMM4IRvblQazTw-7IH&index=8"><img src="https://img.shields.io/badge/Link-556472?style=flat-square&logo=Linkfire&logoColor=white"/></a>
-- 숭실대 지역 지능화 혁신 인재 양성 해외 단기 연수 프로그램 - Silicon Valley (2023.02 ~ 2023.02)
+|2021.03 ~ 2021.09|Food Placement Application Using Augmented Reality (AR_PUB)|<a href="https://www.youtube.com/watch?v=oaoSw2BxXfQ"><img src="https://img.shields.io/badge/Link-556472?style=flat-square&logo=Linkfire&logoColor=white"/></a>|
+|2021.01 ~ 2021.12|어포던스 기반 AR 헬스케어 콘텐츠 및 서비스 개발 | <a href="https://www.youtube.com/watch?v=TKnRmTAuJvA"><img src="https://img.shields.io/badge/Link-556472?style=flat-square&logo=Linkfire&logoColor=white"/></a>|
+|2021.09 ~ 2021.12|지능형 개인맞춤 재활운동 서비스 기술개발|
+|2022.01 ~ 2022.12|Human data-based Metaverse Contents Development including Exercise Coaching and Traditional Dance using Motion Recognition Technology| <a href="https://www.youtube.com/watch?v=mf_9cJBOrKo&list=PLPcppWRsdoY2hGQQMM4IRvblQazTw-7IH&index=20"><img src="https://img.shields.io/badge/Link-556472?style=flat-square&logo=Linkfire&logoColor=white"/></a>|
+|2022.04 ~|XR 트윈 기반 재활 훈련 콘텐츠 기술개발||
+|2022.07 ~ |지역지능화혁신인재양성(숭실대학교)||
+|2023.01 ~ |시공간 연동 교육 메타버스 및 볼류메트릭 헬스케어 메타버스를 위한 기술 및 서비스 개발| <a href="https://www.youtube.com/watch?v=o19jY0rnoRc&list=PLPcppWRsdoY2hGQQMM4IRvblQazTw-7IH&index=8"><img src="https://img.shields.io/badge/Link-556472?style=flat-square&logo=Linkfire&logoColor=white"/></a>|
+|2023.02 ~ 2023.02|숭실대 지역 지능화 혁신 인재 양성 해외 단기 연수 프로그램 - Silicon Valley||
 
 ## 🔨Interest Technology
 - language : 
