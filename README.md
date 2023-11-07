@@ -35,7 +35,7 @@
   https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11229614 (2023 HCI KOREA CONFERENCE)
 ## 💻 Project
 |프로젝트명|시작일|종료일|비고|
-|---|------|----|
+|---|------|----|---|
 |Implementation of Youth Fitness|2021.01|2021.06|
 |Food Placement Application Using Augmented Reality (AR_PUB)|2021.03|2021.09|<a href="https://www.youtube.com/watch?v=oaoSw2BxXfQ"><img src="https://img.shields.io/badge/Link-556472?style=flat-square&logo=Linkfire&logoColor=white"/></a>|
 |어포던스 기반 AR 헬스케어 콘텐츠 및 서비스 개발|2021.01|2021.12| <a href="https://www.youtube.com/watch?v=TKnRmTAuJvA"><img src="https://img.shields.io/badge/Link-556472?style=flat-square&logo=Linkfire&logoColor=white"/></a>|
