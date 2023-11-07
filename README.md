@@ -2,10 +2,20 @@
 <br>I am currently studying Computer Vision and Deep Learning.I'm interested in 3D pose estimation using trnasformer, image synthesis using Latent Diffusion, and model lightweighting techniques such as pruning, quantization and knowledge distillation.</br>
 <br>I strive to make what people's dream come true through deep learning.</br>
 
-## 🛫 Career
-- Bachelor of Science in Electrical Engineering. (2016.03 ~ 2022.02)
-- ETRI 2021 Summer Research Trainee (2021.07 ~ 2021.08)
-- Graphics & Smart Convergence Lab Researcher(2020.09 ~ )
+## 📚 Education
+|학위|학교|기간|전공|
+|---|------|----|----|
+|학사|숭실대학교|2016.03~2022.02|전기공학부|
+|석사|숭실대학교|2022.03~|미디어학과|
+
+## 📝 Experience
+|근무처|직급|담당업무|시작일|종료일| 
+|---|------|----|----|----|
+|숭실대학교 생체전기연구실|연구원|자기장 차폐 시뮬레이션|2020.01|2020.08|
+|숭실대학교 GSC Lab|연구원|담당|2020.09|-|
+|한국전자통신연구원|인턴|담당|2021.07|2021.08|
+
+
 
 ## 🔥 Current
 - Master of Science in Media (2022.03 ~ )
@@ -71,3 +81,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- ETRI 2021 Summer Research Trainee (2021.07 ~ 2021.08)
+- Graphics & Smart Convergence Lab Researcher(2020.09 ~ )
