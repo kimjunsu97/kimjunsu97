@@ -5,7 +5,7 @@
 ## 🛫 Career
 - Bachelor of Science in Electrical Engineering. (2016.03 ~ 2022.02)
 - ETRI 2021 Summer Research Trainee (2021.07 ~ 2021.08)
-- Graphics & Smart Convergence Lab Researcher(2020.09 ~ 2022.07)
+- Graphics & Smart Convergence Lab Researcher(2020.09 ~ )
 
 ## 🔥 Current
 - Master of Science in Media (2022.03 ~ )
