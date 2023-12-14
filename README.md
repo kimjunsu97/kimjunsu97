@@ -32,11 +32,13 @@
   |Kaggle|DFL - Bundesliga Data Shootout|57/531|10.7%|2022.10|
   |Dacon|월간 데이콘 예술 작품 화가 분류 AI 경진대회|10/217|4.6%|2022.11|
   |Dacon|월간 데이콘 TV 손동작 제어 인식 AI 경진대회|9/219|4.1%|2023.02|
-  |2023빅콘테스트|빅데이터플랫폼활용(연안)|1차통과|-|2023.12|
+  |2023빅콘테스트|빅데이터플랫폼활용(연안)|운영위원장상|-|2023.12|
 ## 📓 Paper
 - 딥러닝 기술을 이용한 사용자 동작인식 기반 전통 사자탈 아바타 매핑 및 애니메이션 시스템의 설계 및 개발
   (Design and development of traditional lion mask avatar mapping and animation system based on the user motion recognition using deep learning technology) 
   https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11229614 (2023 HCI KOREA CONFERENCE)
+- 3차원 사람 자세 추정을 위한 관계 기반 단계적 지식 증류 기법
+  (Relation Based Stepwise Knowledge Distillation for 3D Human Pose Estimation) (학위논문)
 ## 💻 Project
 |프로젝트명|시작일|종료일|비고|
 |---|------|----|---|
