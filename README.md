@@ -16,7 +16,7 @@
 |근무처|직급|담당업무|시작일|종료일| 
 |---|------|----|----|----|
 |숭실대학교 생체전기연구실|연구원|자기장 차폐 시뮬레이션|2020.01|2020.08|
-|숭실대학교 GSC Lab|연구원|담당|2020.09|-| <a href="http://gsclab.kr"><img src="https://img.shields.io/badge/GSCLab-556472?style=flat-square&logo=NintendoGameCube&logoColor=white"/></a>
+|숭실대학교 GSC Lab|연구원|카메라 기반 딥러닝 모델링 및 최적|2020.09|-| <a href="http://gsclab.kr"><img src="https://img.shields.io/badge/GSCLab-556472?style=flat-square&logo=NintendoGameCube&logoColor=white"/></a>
 |한국전자통신연구원|연구연수원|3차원 자세 추정을 위해 관련 데이터셋과 딥러닝 논문 분석 후  Python 코드 구현|2021.07|2021.08| 
 
 ## 🔥 Current
