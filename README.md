@@ -5,8 +5,9 @@
 ## 📚 Education
 |학위|학교|전공|학점|시작일|종료일|
 |---|------|----|---|----|----|
-|학사|숭실대학교|전기공학부|4.00/4.5|2016.03|2022.02|
 |석사|숭실대학교|미디어학과|4.45/4.5|2022.03|2024.02|
+|학사|숭실대학교|전기공학부|4.00/4.5|2016.03|2022.02|
+
 
 ## 🔠 Language
 |언어|어학시험|등급|점수|응시일자|만료일자|
@@ -15,24 +16,27 @@
 ## 📝 Experience
 |근무처|직급|담당업무|시작일|종료일| 
 |---|------|----|----|----|
-|숭실대학교 생체전기연구실|연구원|자기장 차폐 시뮬레이션|2020.01|2020.08|
-|숭실대학교 GSC Lab|연구원|카메라 기반 딥러닝 모델링 및 최적|2020.09|2024.02| <a href="http://gsclab.kr"><img src="https://img.shields.io/badge/GSCLab-556472?style=flat-square&logo=NintendoGameCube&logoColor=white"/></a>
 |한국전자통신연구원|연구연수원|3차원 자세 추정을 위해 관련 데이터셋과 딥러닝 논문 분석 후  Python 코드 구현|2021.07|2021.08| 
+|숭실대학교 GSC Lab|연구원|카메라 기반 딥러닝 모델링 및 최적|2020.09|2024.02| <a href="http://gsclab.kr"><img src="https://img.shields.io/badge/GSCLab-556472?style=flat-square&logo=NintendoGameCube&logoColor=white"/></a>
+|숭실대학교 생체전기연구실|연구원|자기장 차폐 시뮬레이션|2020.01|2020.08|
 
 ## 🔥 Current
 |근무처|직급|담당업무|시작일|
 |---|------|----|----|
-|숭실대학교 GSC Lab|대표연구원|담당|2020.09|
+|WesleyQuest|인턴|데이터분석,Ai연구개발|2024.03|
 
 ## 🏆 Prize
 - 11th Soongsil Capstone Design Competition prize (2021.09)
 - 데이터 분석 대회
   |대회|대회명|순위|상위|대회마감|
   |---|------|----|----|----|
-  |Kaggle|DFL - Bundesliga Data Shootout|57/531|10.7%|2022.10|
-  |Dacon|월간 데이콘 예술 작품 화가 분류 AI 경진대회|10/217|4.6%|2022.11|
-  |Dacon|월간 데이콘 TV 손동작 제어 인식 AI 경진대회|9/219|4.1%|2023.02|
   |2023빅콘테스트|빅데이터플랫폼활용(연안)|운영위원장상|-|2023.12|
+  |Dacon|월간 데이콘 TV 손동작 제어 인식 AI 경진대회|9/219|4.1%|2023.02|
+  |Dacon|월간 데이콘 예술 작품 화가 분류 AI 경진대회|10/217|4.6%|2022.11|
+  |Kaggle|DFL - Bundesliga Data Shootout|57/531|10.7%|2022.10|
+  
+  
+  
 ## 📓 Paper
 |논문 명|영문 명|발행일|정보|링크|
 |------|------|----|---|---|
@@ -52,6 +56,9 @@
 |XR 트윈 기반 재활 훈련 콘텐츠 기술개발|2022.04|-|-|
 |지역지능화혁신인재양성(숭실대학교)|2022.07|-|등록번호 : C-2023-061595, C-2023-061596|
 |시공간 연동 교육 메타버스 및 볼류메트릭 헬스케어 메타버스를 위한 기술 및 서비스 개발|2023.01|-|  <a href="https://www.youtube.com/watch?v=o19jY0rnoRc&list=PLPcppWRsdoY2hGQQMM4IRvblQazTw-7IH&index=8"><img src="https://img.shields.io/badge/Link-556472?style=flat-square&logo=Linkfire&logoColor=white"/></a>|
+
+## ✈️해외경험
+|---|------|----|---|
 |숭실대 지역 지능화 혁신 인재 양성 해외 단기 연수 프로그램 - Silicon Valley|2023.02|2023.02||
 
 ## 🔨Interest Technology
