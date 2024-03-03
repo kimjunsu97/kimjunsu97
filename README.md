@@ -58,6 +58,7 @@
 |시공간 연동 교육 메타버스 및 볼류메트릭 헬스케어 메타버스를 위한 기술 및 서비스 개발|2023.01|-|  <a href="https://www.youtube.com/watch?v=o19jY0rnoRc&list=PLPcppWRsdoY2hGQQMM4IRvblQazTw-7IH&index=8"><img src="https://img.shields.io/badge/Link-556472?style=flat-square&logo=Linkfire&logoColor=white"/></a>|
 
 ## ✈️해외경험
+|경험|시작일|종료일|비고|
 |---|------|----|---|
 |숭실대 지역 지능화 혁신 인재 양성 해외 단기 연수 프로그램 - Silicon Valley|2023.02|2023.02||
 
