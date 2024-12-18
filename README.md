@@ -55,24 +55,19 @@ My goal is to harness the power of data and AI to turn innovative ideas into rea
 ## 💻 Project
 |프로젝트명|시작일|종료일|발주처|비고|
 |---|------|----|---|---|
+|CJ 푸드빌 DW 구축 사업|2024.12|2025.3|CJ 푸드빌|-|
 |2024년 AI기반 현안 해결형 데이터 분석모델 개발 사업|2024.08|2024.02|행안부,NIA|-|
 |데이터바우처 지원사업(코택트)|2024.08|2024.11|한국데이터산업진흥원|-|
 |경기도 일자리 통계 "월간 데이터 인사이트" 시범 발간|2024.05|2024.08|경기도일자리재단|-|
 |LLM을 활용한 의료고시 및 진료 데이터 기반 RAG 시스템 개발|2024.04|2024.05|오스템인플란트(주)|-|
-|시공간 연동 교육 메타버스 및 볼류메트릭 헬스케어 메타버스를 위한 기술 및 서비스 개발|2023.01|-|발주처|  <a href="https://www.youtube.com/watch?v=o19jY0rnoRc&list=PLPcppWRsdoY2hGQQMM4IRvblQazTw-7IH&index=8"><img src="https://img.shields.io/badge/Link-556472?style=flat-square&logo=Linkfire&logoColor=white"/></a>|
-|지역지능화혁신인재양성(숭실대학교)|2022.07|-|등록번호 : C-2023-061595, C-2023-061596|
-|XR 트윈 기반 재활 훈련 콘텐츠 기술개발|2022.04|-|발주처|-|
+|시공간 연동 교육 메타버스 및 볼류메트릭 헬스케어 메타버스를 위한 기술 및 서비스 개발|2023.01|12|발주처|  <a href="https://www.youtube.com/watch?v=o19jY0rnoRc&list=PLPcppWRsdoY2hGQQMM4IRvblQazTw-7IH&index=8"><img src="https://img.shields.io/badge/Link-556472?style=flat-square&logo=Linkfire&logoColor=white"/></a>|
+|지역지능화혁신인재양성(숭실대학교)|2022.07|23.12|등록번호 : C-2023-061595, C-2023-061596|
+|XR 트윈 기반 재활 훈련 콘텐츠 기술개발|2022.05|2023.12|발주처|-|
 |동작인식 기술을 활용한 운동코칭 및 전통무용 등 휴먼 데이터 기반 메타버스 콘텐츠 개발|2022.01|2022.12|발주처| <a href="https://www.youtube.com/watch?v=mf_9cJBOrKo&list=PLPcppWRsdoY2hGQQMM4IRvblQazTw-7IH&index=20"><img src="https://img.shields.io/badge/Link-556472?style=flat-square&logo=Linkfire&logoColor=white"/></a>|
 |지능형 개인맞춤 재활운동 서비스 기술개발|2021.09|2021.12|발주처|등록번호 : C-2021-055310|
 |어포던스 기반 AR 헬스케어 콘텐츠 및 서비스 개발|2021.01|2021.12|발주처| <a href="https://www.youtube.com/watch?v=TKnRmTAuJvA"><img src="https://img.shields.io/badge/Link-556472?style=flat-square&logo=Linkfire&logoColor=white"/></a>|
 |증강현실을 활용한 음식 배치 어플리케이션 (AR_PUB)|2021.03|2021.09|발주처|<a href="https://www.youtube.com/watch?v=oaoSw2BxXfQ"><img src="https://img.shields.io/badge/Link-556472?style=flat-square&logo=Linkfire&logoColor=white"/></a>|
 |유소년 운동능력 발달을 위한 피트니스 관리 서비스 기술 개발|2021.01|2021.06|발주처|
-
-
-
-
-
-
 
 
 ## ✈️해외경험
@@ -84,11 +79,33 @@ My goal is to harness the power of data and AI to turn innovative ideas into rea
 - language : 
 <img src="https://img.shields.io/badge/Python-556472?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSharp-556472?style=flat-square&logo=CSharp&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/SQL-556472?style=flat-square&logo=MySQL&logoColor=white"/></a>
+
 - DL Framework : 
 <img src="https://img.shields.io/badge/Pytorch-556472?style=flat-square&logo=PyTorch&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TensorFlow-556472?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Keras-556472?style=flat-square&logo=Keras&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Scikit-Learn-556472?style=flat-square&logo=scikitLearn&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/HuggingFace-556472?style=flat-square&logo=HuggingFace&logoColor=white"/></a>
+
+- DB :
+<img src="https://img.shields.io/badge/Oracle-556472?style=flat-square&logo=Oracle&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Snowflake-556472?style=flat-square&logo=Snowflake&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PostgreSQL-556472?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/ChromaDB-556472?style=flat-square&logo=ChromaDB&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Faiss-556472?style=flat-square&logo=Faiss&logoColor=white"/></a>
+
+- Data Tools:
+<img src="https://img.shields.io/badge/Airflow-556472?style=flat-square&logo=ApacheAirflow&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kafka-556472?style=flat-square&logo=ApacheKafka&logoColor=white"/></a>
+
+- Infra:
+<img src="https://img.shields.io/badge/FastAPI-556472?style=flat-square&logo=FastAPI&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Docker-556472?style=flat-square&logo=Docker&logoColor=white"/></a>
+
+
+
+
 - Tool & etc. :
 <img src="https://img.shields.io/badge/Unity-556472?style=flat-square&logo=Unity&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Linux-556472?style=flat-square&logo=Linux&logoColor=white"/></a>
