@@ -87,6 +87,10 @@ My goal is to harness the power of data and AI to turn innovative ideas into rea
 <img src="https://img.shields.io/badge/Keras-556472?style=flat-square&logo=Keras&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Scikit-Learn-556472?style=flat-square&logo=scikitLearn&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HuggingFace-556472?style=flat-square&logo=HuggingFace&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/LangChain-556472?style=flat-square&logo=Langchain&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/LlamaIndex-556472?style=flat-square&logo=llamaIndex&logoColor=white"/></a>
+
+
 
 - DB :
 <img src="https://img.shields.io/badge/Oracle-556472?style=flat-square&logo=Oracle&logoColor=white"/></a>
@@ -102,8 +106,8 @@ My goal is to harness the power of data and AI to turn innovative ideas into rea
 - Infra:
 <img src="https://img.shields.io/badge/FastAPI-556472?style=flat-square&logo=FastAPI&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Docker-556472?style=flat-square&logo=Docker&logoColor=white"/></a>
-
-
+<img src="https://img.shields.io/badge/MLFlow-556472?style=flat-square&logo=MLFlow&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Langsmith-556472?style=flat-square&logo=Langchain&logoColor=white"/></a>
 
 
 - Tool & etc. :
