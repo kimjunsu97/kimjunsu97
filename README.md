@@ -1,6 +1,8 @@
-<br>Thank you for visiting my github.</br>
-<br>I am currently studying Computer Vision and Deep Learning.I'm interested in 3D pose estimation using trnasformer, image synthesis using Latent Diffusion, and model lightweighting techniques such as pruning, quantization and knowledge distillation.</br>
-<br>I strive to make what people's dream come true through deep learning.</br>
+<br>TThank you for visiting my GitHub.</br>
+
+<br>I am currently studying data engineering and AI systems leveraging large language models (LLMs). I am particularly interested in building efficient data pipelines, designing robust data architectures, and creating AI-driven solutions using advanced LLM technologies.</br>
+
+My goal is to harness the power of data and AI to turn innovative ideas into reality and help shape a smarter, more connected future.</br>
 
 ## 📚 Education
 |학위|학교|전공|학점|시작일|종료일|
@@ -16,14 +18,14 @@
 ## 📝 Experience
 |근무처|직급|담당업무|시작일|종료일| 
 |---|------|----|----|----|
-|한국전자통신연구원|연구연수원|3차원 자세 추정을 위해 관련 데이터셋과 딥러닝 논문 분석 후  Python 코드 구현|2021.07|2021.08| 
-|숭실대학교 GSC Lab|연구원|카메라 기반 딥러닝 모델링 및 최적|2020.09|2024.02| <a href="http://gsclab.kr"><img src="https://img.shields.io/badge/GSCLab-556472?style=flat-square&logo=NintendoGameCube&logoColor=white"/></a>
+|숭실대학교 GSC Lab|연구원|딥러닝 모델링 및 최적화, AI 시스템 구축|2020.09|2024.02| <a href="http://gsclab.kr"><img src="https://img.shields.io/badge/GSCLab-556472?style=flat-square&logo=NintendoGameCube&logoColor=white"/></a>
+|한국전자통신연구원|연구연수원|딥러닝 데이터셋과 논문 분석 후 Python 코드 구현|2021.07|2021.08| 
 |숭실대학교 생체전기연구실|연구원|자기장 차폐 시뮬레이션|2020.01|2020.08|
 
 ## 🔥 Current
 |근무처|직급|담당업무|시작일|
 |---|------|----|----|
-|WesleyQuest|인턴|데이터분석,Ai연구개발|2024.03|
+|WesleyQuest|선임|데이터분석, 데이터 파이프라인 구축 및 관리, LLM 기반 서비스 개발|2024.03|
 
 ## 🏆 Prize
 - 11th Soongsil Capstone Design Competition prize (2021.09)
@@ -35,7 +37,12 @@
   |Dacon|월간 데이콘 예술 작품 화가 분류 AI 경진대회|10/217|4.6%|2022.11|
   |Kaggle|DFL - Bundesliga Data Shootout|57/531|10.7%|2022.10|
   
-  
+## 🪪 Certification
+|자격증 명|응시일자|만료일자|
+|------|------|------|
+|SQLD|2024.12.13|영구|
+|SnowPro Core|2024.11.29|2026.11.29|
+|빅데이터분석기사|2024.07.12|영구|
   
 ## 📓 Paper
 |논문 명|영문 명|발행일|정보|링크|
@@ -46,16 +53,27 @@
 
   
 ## 💻 Project
-|프로젝트명|시작일|종료일|비고|
-|---|------|----|---|
-|유소년 운동능력 발달을 위한 피트니스 관리 서비스 기술 개발|2021.01|2021.06|
-|증강현실을 활용한 음식 배치 어플리케이션 (AR_PUB)|2021.03|2021.09|<a href="https://www.youtube.com/watch?v=oaoSw2BxXfQ"><img src="https://img.shields.io/badge/Link-556472?style=flat-square&logo=Linkfire&logoColor=white"/></a>|
-|어포던스 기반 AR 헬스케어 콘텐츠 및 서비스 개발|2021.01|2021.12| <a href="https://www.youtube.com/watch?v=TKnRmTAuJvA"><img src="https://img.shields.io/badge/Link-556472?style=flat-square&logo=Linkfire&logoColor=white"/></a>|
-|지능형 개인맞춤 재활운동 서비스 기술개발|2021.09|2021.12|등록번호 : C-2021-055310|
-|동작인식 기술을 활용한 운동코칭 및 전통무용 등 휴먼 데이터 기반 메타버스 콘텐츠 개발|2022.01|2022.12| <a href="https://www.youtube.com/watch?v=mf_9cJBOrKo&list=PLPcppWRsdoY2hGQQMM4IRvblQazTw-7IH&index=20"><img src="https://img.shields.io/badge/Link-556472?style=flat-square&logo=Linkfire&logoColor=white"/></a>|
-|XR 트윈 기반 재활 훈련 콘텐츠 기술개발|2022.04|-|-|
+|프로젝트명|시작일|종료일|발주처|비고|
+|---|------|----|---|---|
+|2024년 AI기반 현안 해결형 데이터 분석모델 개발 사업|2024.08|2024.02|행안부,NIA|-|
+|데이터바우처 지원사업(코택트)|2024.08|2024.11|한국데이터산업진흥원|-|
+|경기도 일자리 통계 "월간 데이터 인사이트" 시범 발간|2024.05|2024.08|경기도일자리재단|-|
+|LLM을 활용한 의료고시 및 진료 데이터 기반 RAG 시스템 개발|2024.04|2024.05|오스템인플란트(주)|-|
+|시공간 연동 교육 메타버스 및 볼류메트릭 헬스케어 메타버스를 위한 기술 및 서비스 개발|2023.01|-|발주처|  <a href="https://www.youtube.com/watch?v=o19jY0rnoRc&list=PLPcppWRsdoY2hGQQMM4IRvblQazTw-7IH&index=8"><img src="https://img.shields.io/badge/Link-556472?style=flat-square&logo=Linkfire&logoColor=white"/></a>|
 |지역지능화혁신인재양성(숭실대학교)|2022.07|-|등록번호 : C-2023-061595, C-2023-061596|
-|시공간 연동 교육 메타버스 및 볼류메트릭 헬스케어 메타버스를 위한 기술 및 서비스 개발|2023.01|-|  <a href="https://www.youtube.com/watch?v=o19jY0rnoRc&list=PLPcppWRsdoY2hGQQMM4IRvblQazTw-7IH&index=8"><img src="https://img.shields.io/badge/Link-556472?style=flat-square&logo=Linkfire&logoColor=white"/></a>|
+|XR 트윈 기반 재활 훈련 콘텐츠 기술개발|2022.04|-|발주처|-|
+|동작인식 기술을 활용한 운동코칭 및 전통무용 등 휴먼 데이터 기반 메타버스 콘텐츠 개발|2022.01|2022.12|발주처| <a href="https://www.youtube.com/watch?v=mf_9cJBOrKo&list=PLPcppWRsdoY2hGQQMM4IRvblQazTw-7IH&index=20"><img src="https://img.shields.io/badge/Link-556472?style=flat-square&logo=Linkfire&logoColor=white"/></a>|
+|지능형 개인맞춤 재활운동 서비스 기술개발|2021.09|2021.12|발주처|등록번호 : C-2021-055310|
+|어포던스 기반 AR 헬스케어 콘텐츠 및 서비스 개발|2021.01|2021.12|발주처| <a href="https://www.youtube.com/watch?v=TKnRmTAuJvA"><img src="https://img.shields.io/badge/Link-556472?style=flat-square&logo=Linkfire&logoColor=white"/></a>|
+|증강현실을 활용한 음식 배치 어플리케이션 (AR_PUB)|2021.03|2021.09|발주처|<a href="https://www.youtube.com/watch?v=oaoSw2BxXfQ"><img src="https://img.shields.io/badge/Link-556472?style=flat-square&logo=Linkfire&logoColor=white"/></a>|
+|유소년 운동능력 발달을 위한 피트니스 관리 서비스 기술 개발|2021.01|2021.06|발주처|
+
+
+
+
+
+
+
 
 ## ✈️해외경험
 |경험|시작일|종료일|비고|
