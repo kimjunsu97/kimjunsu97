@@ -60,8 +60,8 @@ My goal is to harness the power of data and AI to turn innovative ideas into rea
 |데이터바우처 지원사업(코택트)|2024.08|2024.11|한국데이터산업진흥원|-|
 |경기도 일자리 통계 "월간 데이터 인사이트" 시범 발간|2024.05|2024.08|경기도일자리재단|-|
 |LLM을 활용한 의료고시 및 진료 데이터 기반 RAG 시스템 개발|2024.04|2024.05|오스템인플란트(주)|-|
-|시공간 연동 교육 메타버스 및 볼류메트릭 헬스케어 메타버스를 위한 기술 및 서비스 개발|2023.01|12|한국전파진흥협회|  <a href="https://www.youtube.com/watch?v=o19jY0rnoRc&list=PLPcppWRsdoY2hGQQMM4IRvblQazTw-7IH&index=8"><img src="https://img.shields.io/badge/Link-556472?style=flat-square&logo=Linkfire&logoColor=white"/></a>|
-|지역지능화혁신인재양성(숭실대학교)|2022.07|23.12|과학기술정보통신부 |등록번호 : C-2023-061595, C-2023-061596|
+|시공간 연동 교육 메타버스 및 볼류메트릭 헬스케어 메타버스를 위한 기술 및 서비스 개발|2023.01|2023.12|한국전파진흥협회|  <a href="https://www.youtube.com/watch?v=o19jY0rnoRc&list=PLPcppWRsdoY2hGQQMM4IRvblQazTw-7IH&index=8"><img src="https://img.shields.io/badge/Link-556472?style=flat-square&logo=Linkfire&logoColor=white"/></a>|
+|지역지능화혁신인재양성(숭실대학교)|2022.07|2023.12|과학기술정보통신부 |등록번호 : C-2023-061595, C-2023-061596|
 |XR 트윈 기반 재활 훈련 콘텐츠 기술개발|2022.05|2023.12|과학기술정보통신부 |-|
 |동작인식 기술을 활용한 운동코칭 및 전통무용 등 휴먼 데이터 기반 메타버스 콘텐츠 개발|2022.01|2022.12|한국전파진흥협회| <a href="https://www.youtube.com/watch?v=mf_9cJBOrKo&list=PLPcppWRsdoY2hGQQMM4IRvblQazTw-7IH&index=20"><img src="https://img.shields.io/badge/Link-556472?style=flat-square&logo=Linkfire&logoColor=white"/></a>|
 |지능형 개인맞춤 재활운동 서비스 기술개발|2021.09|2021.12|과학기술정보통신부 |등록번호 : C-2021-055310|
