@@ -40,6 +40,7 @@ My goal is to harness the power of data and AI to turn innovative ideas into rea
 ## 🪪 Certification
 |자격증 명|응시일자|만료일자|
 |------|------|------|
+|DAsP|2025.04.18|영구|
 |SQLD|2024.12.13|영구|
 |SnowPro Core|2024.11.29|2026.11.29|
 |빅데이터분석기사|2024.07.12|영구|
@@ -55,6 +56,7 @@ My goal is to harness the power of data and AI to turn innovative ideas into rea
 ## 💻 Project
 |프로젝트명|역할|시작일|종료일|발주처|비고|
 |---|---|------|----|---|---|
+|2025 상시적 의사결정 지원 데이터 분석 사업|2025.08|-|CJ 푸드빌|-|
 |CJ 푸드빌 DW 구축 사업|클라우드 기반 DW 설계 및 데이터 이관|2024.12|2025.07|CJ 푸드빌|-|
 |2024년 AI기반 현안 해결형 데이터 분석모델 개발 사업|AI 모델 개발 및 MLOps 구축|2024.08|2025.04|행안부,NIA|-|
 |데이터바우처 지원사업(코택트)|LLM 서비스 개발 및 배포|2024.08|2024.11|한국데이터산업진흥원|-|
