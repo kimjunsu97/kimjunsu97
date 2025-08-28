@@ -106,6 +106,7 @@ My goal is to harness the power of data and AI to turn innovative ideas into rea
 <img src="https://img.shields.io/badge/Kafka-556472?style=flat-square&logo=ApacheKafka&logoColor=white"/></a>
 
 - Infra:
+<img src="https://img.shields.io/badge/AWS-556472?style=flat-square&logo=AWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/FastAPI-556472?style=flat-square&logo=FastAPI&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Docker-556472?style=flat-square&logo=Docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MLFlow-556472?style=flat-square&logo=MLFlow&logoColor=white"/></a>
