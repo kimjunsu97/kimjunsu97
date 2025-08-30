@@ -40,6 +40,7 @@ My goal is to harness the power of data and AI to turn innovative ideas into rea
 ## 🪪 Certification
 |자격증 명|응시일자|만료일자|
 |------|------|------|
+|AWS SAA-CO3|2025.08.28|2028.08.28|
 |DAsP|2025.04.18|영구|
 |SQLD|2024.12.13|영구|
 |SnowPro Core|2024.11.29|2026.11.29|
